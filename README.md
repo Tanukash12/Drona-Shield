@@ -30,12 +30,9 @@ The design focuses on a clean interface, performance, and compatibility across m
 
 ---
 
-
----
-
 ## ScreenShot
 
-[Drona-Shield](./Drona-Shield.png)
+![Drona-Shield](./Drona-Shield.png)
 
 ## Getting Started
 
@@ -46,6 +43,7 @@ The design focuses on a clean interface, performance, and compatibility across m
    ```bash
    cd contest
 3. Open index.html file 
+
 
 
 
