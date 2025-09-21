@@ -33,13 +33,21 @@ The design focuses on a clean interface, performance, and compatibility across m
 
 ---
 
+## Demo Video
+
+<video width="600" controls>
+  <source src="DRONA-SHIELD.mp4" type="video/mp4">
+</video>
+
 ## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Tanukash12/Drona-Shield.git
 2. Navigate into the folder:
    ```bash
    cd contest
 3. Open index.html file 
+
+
 
