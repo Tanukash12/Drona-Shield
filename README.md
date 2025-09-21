@@ -35,9 +35,7 @@ The design focuses on a clean interface, performance, and compatibility across m
 
 ## Demo Video
 
-<video width="600" controls>
-  <source src="DRONA-SHIELD.mp4" type="video/mp4">
-</video>
+[Drona-Shield](./DRONA-SHIELD.mp4)
 
 ## Getting Started
 
@@ -48,6 +46,7 @@ The design focuses on a clean interface, performance, and compatibility across m
    ```bash
    cd contest
 3. Open index.html file 
+
 
 
 
