@@ -44,8 +44,9 @@ The design focuses on a clean interface, performance, and compatibility across m
    cd contest
 3. Open index.html file 
 
-## Live URL
-![Drona-Shield](https://drona-shield-nunzn6cc0-tanushka-kashyaps-projects.vercel.app/)
+## Live Demo
+[Drona-Shield](https://drona-shield-nunzn6cc0-tanushka-kashyaps-projects.vercel.app/)
+
 
 
 
